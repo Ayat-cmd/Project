@@ -1,0 +1,17 @@
+find_employee.o
+main.o
+mainwindow.o
+print_workers.o
+save_data.o
+second_window.o
+storage.o
+supplier.o
+worker.o
+moc_find_employee.o
+moc_mainwindow.o
+moc_print_workers.o
+moc_save_data.o
+moc_second_window.o
+moc_storage.o
+moc_supplier.o
+moc_worker.o
